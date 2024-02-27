@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: AISHWARYA.S</h3>
-<h3>Register Number:212222100003</h3>
+<h3>Name: VARSHA.G </h3>
+<h3>Register Number: 212222230166 </h3>
 
 
 <h3>AIM:</h3>
